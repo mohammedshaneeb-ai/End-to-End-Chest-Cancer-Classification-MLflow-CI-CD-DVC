@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mohammed_shaneeb/Desktop/End_to_End_ML_Projects/End-to-End-Chest-Cancer-Classification-MLflow-CI-CD-DVC/mlruns/0/3da9c9c04547435eb836ed89c87574b3/artifacts
+end_time: 1714713865243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da9c9c04547435eb836ed89c87574b3
+run_name: awesome-gull-323
+run_uuid: 3da9c9c04547435eb836ed89c87574b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714713859241
+status: 3
+tags: []
+user_id: mohammed_shaneeb
